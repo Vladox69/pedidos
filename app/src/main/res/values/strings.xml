@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pedidos Rápidos</string>
+    <string name="titulo">Pedidos Rápidos</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="btnCancelar">Cancelar</string>
+
+</resources>
